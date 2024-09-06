@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Youtube-Downloader-Batch** is a [brief description of your project]. It is licensed under the MIT license, which is a permissive open-source license. This project also incorporates two additional components:
+Youtube-Downloader-Batch is a bat script-like program that uses yt-dlp repo and automates it's most basic function for downloading video and audio form youtube URL links, can be also used for playlists. It is licensed under the MIT license, which is a permissive open-source license. This project also incorporates two additional components:
 
 - **FFmpeg** licensed under the LGPLv2.1.
 - **yt-dlp**, which is licensed under The Unlicense.
