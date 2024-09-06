@@ -1,0 +1,79 @@
+# Youtube-Downloader-Batch
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL%20v2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)  
+[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)
+
+## Overview
+
+**Youtube-Downloader-Batch** is a [brief description of your project]. It is licensed under the MIT license, which is a permissive open-source license. This project also incorporates two additional components:
+
+- **FFmpeg** licensed under the LGPLv2.1.
+- **yt-dlp**, which is licensed under The Unlicense.
+
+This document outlines the licensing of the project and clarifies how the use of FFmpeg and yt-dlp impacts the overall licensing terms.
+
+## License
+
+### Project License (MIT)
+
+MIT License
+
+Copyright (c) 2018 Marco Giuseppini
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+This project is licensed under the [MIT License](LICENSE), a permissive open-source license. The following conditions apply to the project code:
+
+- You are free to use, modify, and distribute the code, provided that the original license is included in any distribution.
+- There is no warranty for the code, as per the terms of the MIT License.
+
+### FFmpeg License (LGPLv2.1)
+
+This project uses [FFmpeg](https://ffmpeg.org), which is licensed under the [GNU Lesser General Public License v2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) (LGPLv2.1).
+
+When dynamically linking to FFmpeg libraries, the LGPLv2.1 allows you to use the libraries without placing restrictions on your project's code, as long as the following conditions are met:
+
+- Any modifications made to FFmpeg must be released under the LGPLv2.1.
+- Users must be able to replace or relink FFmpeg with their own version if they choose.
+- You must provide information to allow users to obtain the FFmpeg source code and relink or modify the library.
+
+If you distribute FFmpeg with your project, ensure that you include the necessary LGPLv2.1 notices, as well as instructions on how users can obtain and relink their own version of FFmpeg.
+
+### yt-dlp License (Unlicense)
+
+This project also incorporates [yt-dlp](https://github.com/yt-dlp/yt-dlp), a popular tool for downloading videos from various platforms. `yt-dlp` is licensed under [The Unlicense](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE), a very permissive public domain dedication. The key points are:
+
+- You are free to use, modify, and distribute `yt-dlp` without restriction.
+- The code is offered as-is, without warranty, to the extent permitted by law.
+
+You can find more information about The Unlicense at [unlicense.org](https://unlicense.org).
+
+### Compliance
+
+To comply with the different licenses in this project:
+
+- **MIT License**: You are free to use, modify, and distribute the project code, as long as the MIT license is included.
+- **LGPLv2.1 (FFmpeg)**: If you dynamically link FFmpeg, ensure users can relink or replace FFmpeg. If you modify or statically link FFmpeg, provide access to the source code and allow users to relink.
+- **Unlicense (yt-dlp)**: You are free to use, modify, and distribute `yt-dlp` without any restrictions.
+
+## Contributions
+
+By contributing to this project, you agree that your contributions will be licensed under the MIT license. If your contribution involves modifications to FFmpeg, those changes must comply with the LGPLv2.1 and be made available under that license. Any contributions that modify or incorporate `yt-dlp` will be under The Unlicense.
+
