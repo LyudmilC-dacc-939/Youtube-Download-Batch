@@ -70,13 +70,13 @@ Before running the main script, you need to configure the settings.
 ## Example
 
 1. **Settings Files**:
-   - `DirToSave.txt`: `C:\Users\Admin\Downloads`
+   - `DirToSave.txt` ie: `C:\Users\Admin\Downloads`
    - `DownloadCopy.txt`: `Y`
 
 2. **Script Execution**:
    - When prompted, enter the URL of the video or playlist.
    - Choose the format code you wish to download.
-   - The script will download the file to both the `Lib` folder and `C:\Users\Admin\Downloads`.
+   - The script will download the file to both the `Lib` folder and the path you chose in the Settings.bat.
 
 ## Troubleshooting
 
