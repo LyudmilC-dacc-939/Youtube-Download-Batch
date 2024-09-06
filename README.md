@@ -164,10 +164,3 @@ Here is an example of how to use the script:
 6. **Output File**: `final_output.mp4`
 
 The script will merge `sample_video.mp4` and `background_music.mp3` into a new file called `final_output.mp4` using the specified codecs.
-
-## License
-
-This script is provided "as-is" without warranty of any kind. Feel free to use and modify it according to your needs.
-
-
-
